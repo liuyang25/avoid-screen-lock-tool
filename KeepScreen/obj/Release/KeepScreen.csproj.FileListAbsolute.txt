@@ -1,0 +1,10 @@
+D:\work\c#\KeepScreen\KeepScreen\bin\Release\KeepScreen.exe.config
+D:\work\c#\KeepScreen\KeepScreen\bin\Release\KeepScreen.exe
+D:\work\c#\KeepScreen\KeepScreen\bin\Release\KeepScreen.pdb
+D:\work\c#\KeepScreen\KeepScreen\obj\Release\KeepScreen.csprojResolveAssemblyReference.cache
+D:\work\c#\KeepScreen\KeepScreen\obj\Release\KeepScreen.Form1.resources
+D:\work\c#\KeepScreen\KeepScreen\obj\Release\KeepScreen.Properties.Resources.resources
+D:\work\c#\KeepScreen\KeepScreen\obj\Release\KeepScreen.csproj.GenerateResource.Cache
+D:\work\c#\KeepScreen\KeepScreen\obj\Release\KeepScreen.csproj.CoreCompileInputs.cache
+D:\work\c#\KeepScreen\KeepScreen\obj\Release\KeepScreen.exe
+D:\work\c#\KeepScreen\KeepScreen\obj\Release\KeepScreen.pdb
